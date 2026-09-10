@@ -21,15 +21,14 @@ Disciplina voltada para o estudo aprofundado de metodologias e técnicas moderna
 *   **Documentação de Software:** Elaboração de artefatos padronizados para o ciclo de vida do desenvolvimento de sistemas (SDLC).
 
 ---
-
 ## 📁 Organização do Repositório
 
 A estrutura de diretórios deste repositório está organizada da seguinte forma:
-
 ```text
 ├── Unidades/       # Exercícios práticos, listas e roteiros divididos por aulas/módulos
 └── Projeto APS/    # Documentação completa e código do projeto desenvolvido ao longo do semestre
+```
 
-👩‍💻 Autor
----
-Luan Reis - Estudante de Engenharia de Software
+## 👩‍💻 Autor
+
+Luan Reis — Estudante de Engenharia de Software
