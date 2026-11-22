@@ -21,7 +21,7 @@ O sistema poderá apresentar:
 **Equipe do projeto:**
 [João Gabriel](https://github.com/Jotagegmf) |
 [João Victor](https://github.com/joaovictorcode7) |
-[Luan Borges](https://github.com/r31s) |
+[Luan Reis](https://github.com/r31s) |
 [Lucca Cavalcante](https://github.com/Lucca143)
 
 

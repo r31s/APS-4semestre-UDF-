@@ -15,7 +15,7 @@
 |---|---|
 | 1 |[João Gabriel](https://github.com/Jotagegmf) |
 | 2 |[João Victor](https://github.com/joaovictorcode7)|
-| 3 |[Luan Borges](https://github.com/r31s)|
+| 3 |[Luan Reis](https://github.com/r31s)|
 | 4 |[Lucca Cavalcante](https://github.com/Lucca143)|
 
 ---
